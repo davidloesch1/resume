@@ -1,0 +1,25 @@
+{
+    "name": "David Loesch",
+    "website": "davidloesch.site",
+    "linkedIn": "linkedin.com/in/davidloesch1",
+    "github": "github.com/davidloesch1",
+    "email": "davidloesch1@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node",
+        "Express",
+        "MongoDB",
+        "PostgreSQL",
+        "Django"
+    ],
+    "otherSkills": [
+        "Lion Taming",
+        "Teleportation",
+        "Mind Control",
+        "Cooking"
+    ]
+}
